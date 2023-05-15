@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcusazara
 - 👀 I’m interested in web developing, Vue.js, React, Angular, Svelte
-- 🌱 I’m currently learning ANNs.
+- 🌱 I’m currently learning Azure, cloud computing.
 - 💞️ I’m looking to collaborate on a Svelte node package.
 - 📫 You can reach me by mailing to marcus.azara16@gmail.com
 
